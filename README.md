@@ -18,7 +18,7 @@ This script requires the `requests` module to be installed.
 ### Usage
 
 Download videos from profile with the following command:
-`python fontshop-dl.py justinbieber`
+`python tiktok-dl.py justinbieber`
 
 ##### Example terminal output
 
