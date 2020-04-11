@@ -2,7 +2,11 @@
 
 # NOTICE
 
-**This script is not fully functional. You will have to acquire your own device id and install id through either packet sniffing with a rooted phone, emulator or some other method.**
+**This script is not fully functional. You will have to acquire the following information through either packet sniffing with a rooted phone, emulator or some other method:**
+
+- API Server Host (e.g. api-t.tiktok.com)
+- device_id (e.g. 68062524349203849239)
+- iid (e.g. 681418433854095829)
 
 ![Version 1.0](https://img.shields.io/badge/Version-1.0-orange.svg)
 ![Python 2.7, 3.5](https://img.shields.io/badge/Python-2.7%2C%203.5%2B-3776ab.svg)
