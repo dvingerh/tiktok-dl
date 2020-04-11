@@ -46,8 +46,8 @@ def awemeRequest(request_path, type="get"):
 	}
 	url = "http://api-t.tiktok.com" \
 		+ request_path \
-		+ "&device_id=6806252436203849221" \
-		+ "&iid=6806252686306150149" \
+		+ "&device_id=YOUR_DEVICE_ID" \
+		+ "&iid=YOUR_INSTALL_ID" \
 		+ "&version_code=100303" \
 		+ "&build_number=10.3.3" \
 		+ "&version_name=10.3.3" \
