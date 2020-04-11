@@ -1,6 +1,8 @@
 # tiktok-dl
 
-**Notice: TikTok's API is written rather poorly and it's not officially documented either. This script may stop working at any given time and no updates are guaranteed.**
+# NOTICE
+
+**This script is not fully functional. You will have to acquire your own device id and install id through either packet sniffing with a rooted phone, emulator or some other method.**
 
 ![Version 1.0](https://img.shields.io/badge/Version-1.0-orange.svg)
 ![Python 2.7, 3.5](https://img.shields.io/badge/Python-2.7%2C%203.5%2B-3776ab.svg)
