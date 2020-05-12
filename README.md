@@ -8,6 +8,8 @@
 - device_id (e.g. 68062524349203849239)
 - iid (e.g. 681418433854095829)
 
+**As of recently this script will throw an error most of the time. Consider the code only useful as a base to work off.** 
+
 ![Version 1.0](https://img.shields.io/badge/Version-1.0-orange.svg)
 ![Python 2.7, 3.5](https://img.shields.io/badge/Python-2.7%2C%203.5%2B-3776ab.svg)
 
