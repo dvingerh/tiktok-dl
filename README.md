@@ -13,8 +13,6 @@
 ![Version 1.0](https://img.shields.io/badge/Version-1.0-orange.svg)
 ![Python 2.7, 3.5](https://img.shields.io/badge/Python-2.7%2C%203.5%2B-3776ab.svg)
 
-[![Support me!](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/dvingerh)
-
 Python script to download videos from a TikTok profile without any watermarks. Supports Python 2.7 and 3.5.
 
 Downloads will be saved to `downloaded/username`. Directories are automatically created if they don't exist yet.
